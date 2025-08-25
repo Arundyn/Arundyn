@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 
+👋 Well met, traveler! I’m Kana, a Software Engineer crafting Front-End with HTML, CSS, and JavaScript. I wield XAMPP, brew Python AI/Data insights, and guard with Cybersecurity.
+
+
+Tech Stack:
+📝 HTML | 🎨 CSS | 💻 JavaScript | 🛠️ XAMPP | 🐍 Python | 🔒 Cybersecurity
 
 <!--
 **Arundyn/Arundyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
