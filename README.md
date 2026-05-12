@@ -6,6 +6,7 @@ i'm Arkana, a software engineer interested in developing websites, handle back-e
 
 ## About me 
 my main Tech Stack is React, Typescript, tailwind.
+
 other than that, i can do Data Analytics Stack like Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 
 when im not here crushing bugs and developing, i can be found writing things i like, play some games and reading books. 
