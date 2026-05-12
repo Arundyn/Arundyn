@@ -1,15 +1,15 @@
 ## Hi there 👋
-i'm Arkana, a software engineer interested in developing websites, handle back-end jobs and little bit on data science! 
+i'm Arkana, a software engineer interested in developing websites, handle back-end, front-end jobs and little bit on data science! 
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arundynn/)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tv7wuc3abes3o4fdynspz3erqm?si=a458044a37bd4b3b)
 
 ## About me 
-Well met, traveler! I’m Kana, a Software Engineer crafting Front-End with HTML, CSS, and JavaScript. I wield XAMPP, brew Python AI/Data insights, and guard with Cybersecurity.
+my main Tech Stack is React, Typescript, tailwind, and some Data Analytics Stack like Python, Pandas, NumPy, Matplotlib, Jupyter Notebook. when im not here crushing bugs and developing, i can be found writing things i like, play some games and reading books. 
 
-aa
-Tech Stack:
-📝 HTML | 🎨 CSS | 💻 JavaScript | 🛠️ XAMPP | 🐍 Python | 🔒 Cybersecurity
+🔭 I’m currently working on building an business management dashboard that can be used for small sale business in general. 
+## 🌱 I’m currently learning 
+<img src="https://flagcdn.com/w80/jp.png" width="60">
 
 <!--
 **Arundyn/Arundyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
