@@ -5,7 +5,9 @@ i'm Arkana, a software engineer interested in developing websites, handle back-e
 [![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tv7wuc3abes3o4fdynspz3erqm?si=a458044a37bd4b3b)
 
 ## About me 
-my main Tech Stack is React, Typescript, tailwind, and some Data Analytics Stack like Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
+my main Tech Stack is React, Typescript, tailwind.
+other than that, i can do Data Analytics Stack like Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
+
 when im not here crushing bugs and developing, i can be found writing things i like, play some games and reading books. 
 
 🔭 I’m currently working on building an business management dashboard that can be used for small sale business in general. 
