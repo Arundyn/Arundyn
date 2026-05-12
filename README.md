@@ -12,7 +12,8 @@ other than that, i can do Data Analytics Stack like Python, Pandas, NumPy, Matpl
 
 when im not here crushing bugs and developing, i can be found writing things i like, play some games and reading books. 
 
-🔭 I’m currently working on building an business management dashboard that can be used for small sale business in general. 
+## 🔭 I’m currently working on 
+building an business management dashboard that can be used for small sale business in general. 
 ## 🌱 I’m currently learning 
 <img src="https://flagcdn.com/w80/jp.png" width="60">
 
