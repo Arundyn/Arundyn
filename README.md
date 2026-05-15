@@ -1,5 +1,5 @@
 ## Hi there 👋
-i'm Arkana, a software engineer interested in developing websites, handle fullstack developer jobs and little bit on data science! 
+i'm Arkana, a software engineer interested in handling fullstack developer jobs and little bit on data science! 
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arundynn/)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tv7wuc3abes3o4fdynspz3erqm?si=a458044a37bd4b3b)
