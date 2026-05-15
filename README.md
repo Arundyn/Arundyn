@@ -3,6 +3,8 @@ i'm Arkana, a software engineer interested in developing websites, handle back-e
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arundynn/)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tv7wuc3abes3o4fdynspz3erqm?si=a458044a37bd4b3b)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_USERNAME)
 
 ## About me 
 my main Tech Stack is React, Typescript, tailwind.
